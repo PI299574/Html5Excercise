@@ -1,0 +1,160 @@
+.container_12{
+  background: FFFFCC;
+}
+body{
+  background-image: url(../image/backgroud.jpg);
+}
+nav{
+  background: #B8B8B8;
+  width: 100%;
+  height: 50px;
+  font-size:16px;
+	color: #73f104 ;
+}
+nav li{
+  display: inline;
+  margin-left: 0px;
+  margin-right: 100px;
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+}
+nav a:hover{
+	font-size:22px;
+	color: #73f104 ;
+}
+h4:hover {
+  font-size:22px;
+	color: #FF6699 ;
+}
+p:hover {
+  font-size:14px;
+  color: #FF6699 ;
+}
+aside {
+  background: green;
+  float: right;
+  margin-right: 100px;
+}
+aside li{
+  list-style: none;
+}
+.primary {
+  background: #EFFBEF;
+}
+header{
+  background: yellow;
+  background: url(../image/Sports1.jpg) ;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+}
+
+.main{
+  margin: 30px  0px;
+}
+section{
+  box-sizing: border-box;
+  padding: 15px;
+}
+footer{
+	width:100%;
+	height:90px;
+}
+footer img{
+	padding:0px;
+	height:20px;
+	width:20px;
+	margin-top:-36px;
+}
+footer p {
+  color:  white ;
+	height:20px;
+	text-align: center;
+}
+footer div a{
+	text-decoration:none;
+  font-size:14px;
+}
+.copyright{
+	color:   white;   ;
+	text-align: center;
+  margin-top: -15px;
+}
+aside ul li img{
+  height: 200px;
+  width: 145px;
+}
+.heroUnit{
+  font-size: 19px;
+	color:white ;
+	text-align:center;
+  padding:17px;
+  word-spacing:8px;
+	font-style: italic;
+  width: 96.5%;
+  height: 300px;
+  margin-bottom: 0;
+  background-image: url(../image/running.jpg);
+
+}
+.heroUnit2{
+    font-size: 19px;
+	  color:white ;
+	  text-align:center;
+    padding:17px;
+    word-spacing:8px;
+	  font-style: italic;
+    width: 96.5%;
+    height: 300px;
+    margin-bottom: 0;
+    background-image: url(../image/cricket.jpg);
+
+}
+.hero{
+  background-image: url(../image/cricket.jpg);
+}
+.imgpic{
+  height: 200px;
+  width: 100px;
+}
+center{
+  color: white;
+}
+.football{
+  height: 400px;
+  width: 637px;
+  background-image: url(../image/footall.jpg);
+  color: white;
+}
+.cricket{
+  height: 400px;
+  width: 637px;
+  background-image: url(../image/cricket.jpg);
+  color: white;
+}
+.swimming{
+  height: 400px;
+  width: 637px;
+  background-image: url(../image/swimming.jpg);
+  color: white;
+}
+.running{
+  height: 400px;
+  width: 637px;
+  background-image: url(../image/running1.jpg);
+  color: white;
+}
+.tennis{
+  height: 400px;
+  width: 637px;
+  background-image: url(../image/tenish.jpg);
+  color: white;
+}
+.cycling{
+  height: 400px;
+  width: 637px;
+  background-image: url(../image/cycle.jpg);
+  color: white;
+
+}
